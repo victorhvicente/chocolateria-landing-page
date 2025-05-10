@@ -1,1 +1,2 @@
-# projeto1-bootstrap
+# Chocolateria Landing Page
+Este projeto é uma landing page desenvolvida com HTML, CSS e Bootstrap, criada para apresentar uma chocolateria de forma elegante e responsiva. A página destaca os principais produtos, informações da marca e inclui seções como banner principal, vitrine de chocolates e um formulário de contato. Utilizando o Bootstrap, o layout se adapta bem a diferentes tamanhos de tela, garantindo uma boa experiência tanto em desktop quanto em dispositivos móveis.
